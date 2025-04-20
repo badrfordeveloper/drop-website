@@ -1,5 +1,5 @@
 .section-py {
-  padding: 6.25rem 0;
+  padding: 5.25rem 0;
 }
 @media (max-width: 1199.98px) {
   .section-py {
@@ -14,7 +14,7 @@
 
 .landing-hero {
   border-radius: 0 0 3.5rem 3.5rem;
-  padding-top: 10.2rem;
+  padding-top: 12.2rem;
 }
 .landing-hero::after {
   content: "";

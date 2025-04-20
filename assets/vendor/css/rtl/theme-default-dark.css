@@ -82,6 +82,34 @@ body {
 .bg-body {
   background: #25293c !important;
 }
+.black-card{
+  height: 100%;
+}
+p{
+  font-size: 18px;
+}
+.bg-orange-section {
+  background: #ff8808 !important;
+}
+
+.bg-white-section {
+  background: #ffffff !important;
+}
+
+.bg-white-section p{
+  color: #000000;
+}
+.bg-orange-section .icon-title i{
+  color: #ffffff !important;
+}
+.icon-title i{
+  font-size: 65px;
+    color: #ff8808;
+}
+
+.color-black{
+  color: #000000;
+}
 
 .text-primary {
   color: #ff8808 !important;

@@ -83,7 +83,7 @@
   --bs-tertiary-color-rgb: 172, 171, 193;
   --bs-tertiary-bg: rgba(225, 222, 245, 0.1);
   --bs-tertiary-bg-rgb: 225, 222, 245;
-  --bs-heading-color: #cfcde4;
+  --bs-heading-color: #ffffff;
   --bs-link-color: #ff8808;
   --bs-link-color-rgb: 115, 103, 240;
   --bs-link-decoration: none;
@@ -4249,7 +4249,7 @@ textarea.form-control-lg {
   --bs-card-subtitle-color: #9191a8;
   --bs-card-border-width: 0;
   --bs-card-border-color: #44485e;
-  --bs-card-border-radius: 0.375rem;
+  --bs-card-border-radius: 10px;
   --bs-card-box-shadow: 0 0.1875rem 0.75rem 0 rgba(19, 17, 32, 0.2);
   --bs-card-inner-border-radius: 0.375rem;
   --bs-card-cap-padding-y: 1.5rem;

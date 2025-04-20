@@ -192,7 +192,7 @@ nav.layout-navbar.navbar-active::after {
 
 .dark-style .layout-navbar .navbar.landing-navbar {
   border-color: rgba(47, 51, 73, 0.68);
-  background-color: rgba(47, 51, 73, 0.38);
+  background-color: #000000;
 }
 .dark-style .layout-navbar .navbar.landing-navbar .navbar-nav .nav-link {
   color: #cfcde4;
@@ -215,8 +215,8 @@ nav.layout-navbar.navbar-active::after {
   color: #cfcde4;
 }
 .dark-style .layout-navbar.navbar-active .navbar.landing-navbar {
-  background: #2f3349;
-  border-color: #2f3349;
+  background: #000000;
+  border-color: #000000;
   box-shadow: 0 0.125rem 0.5rem 0 rgba(19, 17, 32, 0.18);
 }
 
